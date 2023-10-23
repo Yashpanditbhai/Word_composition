@@ -12,5 +12,4 @@ This Python program does two things: first, it looks for the longest compounded 
 The longest compound word.
 The second longest compound word.
 
-
 Word Composition Problem Solved 
